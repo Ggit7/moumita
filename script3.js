@@ -1,4 +1,4 @@
-var images = ["p.png"];
+var images = ["o.png"];
 
 var currentIndex = 0;
 var totalClicks = 0;
